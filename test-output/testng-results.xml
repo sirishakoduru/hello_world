@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-18T19:11:51 EDT" name="testsuite1" finished-at="2024-09-18T19:11:51 EDT" duration-ms="163">
+    <groups>
+    </groups>
+    <test started-at="2024-09-18T19:11:51 EDT" name="sanity" finished-at="2024-09-18T19:11:51 EDT" duration-ms="163">
+      <class name="testsuite_1.Module_2">
+        <test-method signature="test001()[pri:0, instance:testsuite_1.Module_2@55a147cc]" started-at="2024-09-18T19:11:51 EDT" name="test001" finished-at="2024-09-18T19:11:51 EDT" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test001 -->
+      </class> <!-- testsuite_1.Module_2 -->
+      <class name="testsuite_1.Module1">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="beforeMethod" finished-at="2024-09-18T19:11:51 EDT" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="login" data-provider="data001" finished-at="2024-09-18T19:11:51 EDT" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sirisha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="afterMethod" finished-at="2024-09-18T19:11:51 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="beforeMethod" finished-at="2024-09-18T19:11:51 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="login" data-provider="data001" finished-at="2024-09-18T19:11:51 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[koduru]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass002]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="afterMethod" finished-at="2024-09-18T19:11:51 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="beforeMethod" finished-at="2024-09-18T19:11:51 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test001()[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="test001" finished-at="2024-09-18T19:11:51 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test001 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="afterMethod" finished-at="2024-09-18T19:11:51 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="beforeMethod" finished-at="2024-09-18T19:11:51 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test002()[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="test002" finished-at="2024-09-18T19:11:51 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test002 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testsuite_1.Module1@644baf4a]" started-at="2024-09-18T19:11:51 EDT" name="afterMethod" finished-at="2024-09-18T19:11:51 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testsuite_1.Module1 -->
+    </test> <!-- sanity -->
+  </suite> <!-- testsuite1 -->
+</testng-results>

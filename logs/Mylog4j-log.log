@@ -1,0 +1,9 @@
+[ERROR]09-254-2024 13:53:36.566[main]utility.logger_load1)-Error - You can not divide a number by zero
+[INFO ]09-254-2024 13:53:36.573[main]utility.logger_load1)-Info  - Addition of integers
+[WARN ]09-254-2024 13:53:36.579[main]utility.logger_load1)-Warning - Testing
+[ERROR]2024-09-1013:55:23.688[main]utility.logger_load1)-Error - You can not divide a number by zero
+[INFO ]2024-09-1013:55:23.696[main]utility.logger_load1)-Info  - Addition of integers
+[WARN ]2024-09-1013:55:23.700[main]utility.logger_load1)-Warning - Testing
+[ERROR]2024-09-10 13:55:48.084[main]utility.logger_load1)-Error - You can not divide a number by zero
+[INFO ]2024-09-10 13:55:48.090[main]utility.logger_load1)-Info  - Addition of integers
+[WARN ]2024-09-10 13:55:48.090[main]utility.logger_load1)-Warning - Testing
